@@ -1,0 +1,13 @@
+{
+  "name": "issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nooni85/moritools-shop.git",
+  "author": "Sangwoo Joo <nooni85@naver.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}
